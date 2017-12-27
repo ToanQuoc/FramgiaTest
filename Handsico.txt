@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Handsico ngay 27 thang 12 nam 2017 : mưa to quá trời
+=======
+Handsico ngay 27 thang 12 nam 2017 : Gui anh taks1 , hom nay dung la mua ban vcuc
+>>>>>>> task2
